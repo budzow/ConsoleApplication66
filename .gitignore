@@ -365,3 +365,4 @@ FodyWeavers.xsd
 #SonarQube
 .scannerwork/
 bwo/
+build*.bat
