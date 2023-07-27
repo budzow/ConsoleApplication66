@@ -21,5 +21,8 @@
     <ClCompile Include="ldap.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ldap_orig.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

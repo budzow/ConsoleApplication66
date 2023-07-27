@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication66.cpp" />
     <ClCompile Include="ldap.c" />
+    <ClCompile Include="ldap_orig.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
